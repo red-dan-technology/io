@@ -1,0 +1,436 @@
+@media (max-width: 576px) {
+    .img-hand {
+        width: 230px;
+    }
+    .finger-izquierda-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 10px 10px 16px 13px;
+        border-radius: 40px;
+        left: 19px;
+        top: 47px;
+    }
+    .finger-izquierda-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 16px 7px 19px 18px;
+        border-radius: 40px;
+        left: 60px;
+        top: 16px;
+    }
+    .finger-izquierda-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 18px 12px 17px 14px;
+        border-radius: 40px;
+        left: 103px;
+        top: 11px;
+    }
+    .finger-izquierda-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 15px 11px 21px 16px;
+        border-radius: 40px;
+        left: 148px;
+        top: 23px;
+    }
+    .finger-izquierda-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 23px 22px 16px 13px;
+        border-radius: 40px;
+        left: 182px;
+        top: 148px;
+    }
+
+    .finger-derecha-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 14px 20px 21px 18px;
+        border-radius: 40px;
+        left: 12px;
+        top: 149px;
+    }
+    .finger-derecha-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 16px 12px 18px 18px;
+        border-radius: 40px;
+        left: 52px;
+        top: 25px;
+    }
+    .finger-derecha-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 18px 12px 16px 14px;
+        border-radius: 49px;
+        left: 101px;
+        top: 12px;
+    }
+    .finger-derecha-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 24px 11px 9px 14px;
+        border-radius: 40px;
+        left: 147px;
+        top: 17px;
+    }
+    .finger-derecha-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 10px 10px 20px 13px;
+        border-radius: 40px;
+        left: 187px;
+        top: 44px;
+    }
+}
+
+@media (min-width: 768px) {
+    .img-hand {
+        width: 230px;
+    }
+    .finger-izquierda-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 34px 31px 32px 18px;
+        border-radius: 40px;
+        left: 152px;
+        top: 100px;
+    }
+    .finger-izquierda-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 36px 30px 40px 18px;
+        border-radius: 40px;
+        left: 242px;
+        top: 36px;
+    }
+    .finger-izquierda-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 38px 30px 40px 24px;
+        border-radius: 40px;
+        left: 336px;
+        top: 24px;
+    }
+    .finger-izquierda-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 40px 30px 40px 26px;
+        border-radius: 40px;
+        left: 440px;
+        top: 53px;
+    }
+    .finger-izquierda-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 40px 40px 46px 43px;
+        border-radius: 40px;
+        left: 507px;
+        top: 324px;
+    }
+
+    .finger-derecha-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 34px 31px 32px 18px;
+        border-radius: 40px;
+        left: 522px;
+        top: 100px;
+    }
+    .finger-derecha-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 36px 30px 40px 18px;
+        border-radius: 40px;
+        left: 433px;
+        top: 36px;
+    }
+    .finger-derecha-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 38px 30px 40px 24px;
+        border-radius: 40px;
+        left: 333px;
+        top: 24px;
+    }
+    .finger-derecha-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 40px 30px 40px 26px;
+        border-radius: 40px;
+        left: 230px;
+        top: 53px;
+    }
+    .finger-izquierda-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 40px 40px 46px 43px;
+        border-radius: 40px;
+        left: 133px;
+        top: 324px;
+    }
+}
+
+@media (min-width: 992px) {
+    .img-hand {
+        width: 280px;
+    }
+    .finger-izquierda-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 16px 9px 26px 23px;
+        border-radius: 40px;
+        left: 83px;
+        top: 53px;
+    }
+    .finger-izquierda-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 26px 20px 20px 8px;
+        border-radius: 40px;
+        left: 135px;
+        top: 18px;
+    }
+    .finger-izquierda-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 28px 25px 20px 4px;
+        border-radius: 40px;
+        left: 190px;
+        top: 10px;
+    }
+    .finger-izquierda-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 24px 25px 20px 6px;
+        border-radius: 40px;
+        left: 247px;
+        top: 31px;
+    }
+    .finger-izquierda-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 20px 20px 26px 23px;
+        border-radius: 40px;
+        left: 285px;
+        top: 180px;
+    }
+
+    .finger-derecha-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 24px 31px 22px 18px;
+        border-radius: 40px;
+        left: 74px;
+        top: 183px;
+    }
+    .finger-derecha-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 25px 8px 20px 28px;
+        border-radius: 40px;
+        left: 124px;
+        top: 28px;
+    }
+    .finger-derecha-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 28px 25px 20px 4px;
+        border-radius: 40px;
+        left: 187px;
+        top: 11px;
+    }
+    .finger-derecha-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 24px 23px 20px 6px;
+        border-radius: 40px;
+        left: 240px;
+        top: 20px;
+    }
+    .finger-derecha-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 17px 25px 26px 3px;
+        border-radius: 40px;
+        left: 291px;
+        top: 52px;
+    }
+}
+
+@media (min-width: 1366px) {
+    .img-hand {
+        width: 380px;
+    }
+
+    .finger-izquierda-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 29px 26px 27px 13px;
+        border-radius: 40px;
+        left: 70px;
+        top: 70px;
+    }
+    .finger-izquierda-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 31px 25px 35px 13px;
+        border-radius: 40px;
+        left: 138px;
+        top: 22px;
+    }
+    .finger-izquierda-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 33px 25px 35px 19px;
+        border-radius: 40px;
+        left: 206px;
+        top: 13px;
+    }
+    .finger-izquierda-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 35px 25px 35px 21px;
+        border-radius: 40px;
+        left: 284px;
+        top: 34px;
+    }
+    .finger-izquierda-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 35px 35px 41px 38px;
+        border-radius: 40px;
+        left: 330px;
+        top: 238px;
+    }
+
+    .finger-derecha-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 35px 35px 41px 38px;
+        border-radius: 40px;
+        left: 50px;
+        top: 239px;
+    }
+    .finger-derecha-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 35px 25px 35px 21px;
+        border-radius: 40px;
+        left: 125px;
+        top: 35px;
+    }
+    .finger-derecha-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 33px 25px 35px 19px;
+        border-radius: 40px;
+        left: 203px;
+        top: 14px;
+    }
+    .finger-derecha-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 35px 25px 35px 21px;
+        border-radius: 40px;
+        left: 275px;
+        top: 21px;
+    }
+    .finger-derecha-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 22px 12px 36px 33px;
+        border-radius: 40px;
+        left: 343px;
+        top: 68px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .img-hand {
+        width: 512px;
+    }
+
+    .finger-izquierda-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 40px 40px 46px 43px;
+        border-radius: 40px;
+        left: 599px;
+        top: 324px;
+    }
+    .finger-izquierda-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 36px 30px 40px 18px;
+        border-radius: 40px;
+        left: 334px;
+        top: 36px;
+    }
+    .finger-izquierda-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 38px 30px 40px 24px;
+        border-radius: 40px;
+        left: 428px;
+        top: 24px;
+    }
+    .finger-izquierda-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 40px 30px 40px 26px;
+        border-radius: 40px;
+        left: 532px;
+        top: 53px;
+    }
+    .finger-izquierda-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 34px 31px 32px 18px;
+        border-radius: 40px;
+        left: 244px;
+        top: 100px;
+    }
+
+    .finger-derecha-pulgar {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 34px 31px 32px 18px;
+        border-radius: 40px;
+        left: 614px;
+        top: 100px;
+    }
+    .finger-derecha-indice {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 36px 30px 40px 18px;
+        border-radius: 40px;
+        left: 535px;
+        top: 36px;
+    }
+    .finger-derecha-corazon {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 38px 30px 40px 24px;
+        border-radius: 40px;
+        left: 425px;
+        top: 24px;
+    }
+    .finger-derecha-anular {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 40px 30px 40px 26px;
+        border-radius: 40px;
+        left: 322px;
+        top: 53px;
+    }
+    .finger-derecha-menique {
+        position: absolute;
+        background: rgba(15, 189, 233, 0.4);
+        padding: 40px 40px 46px 43px;
+        border-radius: 40px;
+        left: 225px;
+        top: 324px;
+    }
+}
