@@ -1,7 +1,7 @@
 {
     "name": "red-dan-technology/io",
     "description": "Servicio web para el control de biometricos | Digital persona 4500",
-    "type": "composer-plugin",
+    "keywords": ["laravel", "digitalpersona","php"],
     "authors": [
         {
             "name": "Desarrollo",
@@ -12,13 +12,6 @@
     "autoload": {
         "psr-4":{
             "Rdt\\IO\\": "src"
-        }
-    },
-    "extra":{
-        "laravel":{
-            "providers":[
-
-            ]
         }
     }
 }
